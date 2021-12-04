@@ -8,3 +8,12 @@
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=modloff&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
 </div>
+
+<div align=center>
+  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/MODLOFF/count.svg" />  
+</p>
