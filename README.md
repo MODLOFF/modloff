@@ -17,3 +17,8 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/MODLOFF/count.svg" />  
 </p>
+
+<h1 align="center">Discord Profilim</h1>
+<p align="center">
+  <a href="https://github.com/MODLOFF/" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/263526151970881538?theme=dark&bg=171a1f&animated=true&hideDiscrim=false&borderRadius=10px&locale=true"/></a>
+</p>
