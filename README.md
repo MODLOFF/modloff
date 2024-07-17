@@ -1,8 +1,8 @@
 
 <p align="center">
-  <a href="https://discord.com/users/644639431818739728"><img src="https://img.shields.io/badge/MODLOFF%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=aqua"></a>
+  <a href="https://discord.com/users/658097468176859147"><img src="https://img.shields.io/badge/MODLOFF%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=aqua"></a>
   <a href="https://github.com/modloff"><img src="https://img.shields.io/badge/MODLOFF%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=aqua"></a>
- <a href="https://instagram.com/modloffishu" target"blank_"><img src="https://img.shields.io/badge/MODLOFF%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=aqua">
+ <a href="https://instagram.com/modloff" target"blank_"><img src="https://img.shields.io/badge/MODLOFF%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=aqua">
 </p>
 
 <div align = "center">
