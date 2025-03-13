@@ -1,59 +1,39 @@
+# MODLOFF
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=MODLOFF;Senior+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Senior+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MODLOFF)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MODLOFF)
-  [![Email](https://img.shields.io/badge/Email-171515?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
-  
+  <a href="https://github.com/MODLOFF">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/MODLOFF">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MODLOFF&theme=nord&column=7&no-frame=true&no-bg=true" alt="MODLOFF's trophies" />
-</div>
+### 💻 Tech Stack
 
-## 🧠 Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-      
-### Development
-        
-```javascript
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  frontend: ['React', 'Next.js', 'TailwindCSS'],
-  backend: ['Node.js', 'Express', 'Django'],
-  database: ['MongoDB', 'PostgreSQL', 'Redis'],
-  devOps: ['Docker', 'AWS', 'CI/CD'],
-};
 ```
-        
-      </td>
-      <td valign="top" width="50%">
-      
-### Architecture
-        
-```javascript
-const expertise = {
-  design: ['System Design', 'Microservices'],
-  practices: ['Clean Code', 'TDD', 'DDD'],
-  performance: ['Optimization', 'Scaling'],
-  leadership: ['Tech Lead', 'Mentoring'],
-};
+JavaScript | TypeScript | React | Node.js | Next.js | Python
+MongoDB | PostgreSQL | Docker | AWS | CI/CD | TailwindCSS
 ```
-        
-      </td>
-    </tr>
-  </table>
-</div>
+
+### 🔍 Focus Areas
+
+```
+System Design | Clean Architecture | Performance Optimization
+Microservices | Domain-Driven Design | Technical Leadership
+```
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=MODLOFF&style=flat-square&color=0A66C2" alt="Profile Views"/>
 </div>
