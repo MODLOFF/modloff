@@ -54,30 +54,6 @@ const expertise = {
   </table>
 </div>
 
-## 📊 Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MODLOFF&theme=nord&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MODLOFF&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MODLOFF&theme=nord&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/MODLOFF/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MODLOFF&repo=project1&theme=nord&hide_border=true&bg_color=0D1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/MODLOFF/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MODLOFF&repo=project2&theme=nord&hide_border=true&bg_color=0D1117" alt="Project 2" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" width="100%" />
-</div> 
+</div>
